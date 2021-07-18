@@ -1,8 +1,13 @@
 # Console-SAP-Application
-<br>
-# How-To-Run
 
-<br>
+
+<h1>Introduction</h1>
+
+This summer vacation, I thought to revise my C++ skills with something new. So I created this project. This is a backend codebase for SAP attendance taking. Works as a console application.
+</br>
+
+<h1>How To Run</h1>
+
 1. Clone this repository in your local memory<br>
 2. Open <b>Console-SAP-Application</b> folder with VS Code.<br>
 3. Open terminal and write <i>make</i> in terminal.<br>
@@ -12,11 +17,10 @@
 7. (Optional) You can directly open the console application from your <b>Console-SAP-Application</b> folder once the compilation is done.<br>
 8. Use username <i>TasnimAnas</i> (Not Case Sensitive).<br>
 9. Use Password <i>Kiit@2021</i> (Case sensitive).<br>
-10. Checkout all features!<br>
+10. Checkout all features!
 
-</br> </br>
-# Features
 </br>
+<h1>Features</h1>
 <h2>1. On entering, this console application let you choose to login or exit.</h2>
 
 ![image](https://user-images.githubusercontent.com/80065444/126076402-efda2e28-55ff-4ce8-b284-de2a8f45fbc1.png)
