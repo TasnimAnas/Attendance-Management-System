@@ -14,9 +14,9 @@ This summer vacation, I thought to revise my C++ skills with something new. So I
 4. Code will start to compile (Some warning may show but those are not problem).<br>
 5. Type <i>.\Easy_Attendance.exe</i> and press enter.<br>
 6. Make the terminal full screen and Enjoy!<br>
-7. (Optional) You can directly open the console application from your <b>Console-SAP-Application</b> folder once the compilation is done.<br>
+7. (Optional) You can directly open the Easy_Attendance.exe from your <b>Console-SAP-Application</b> folder once the compilation is done.<br>
 8. Use username <i>TasnimAnas</i> (Not Case Sensitive).<br>
-9. Use Password <i>Kiit@2021</i> (Case sensitive).<br>
+9. Use Password <i>Kiit@2024</i> (Case sensitive).<br>
 10. Checkout all features!
 
 </br>
