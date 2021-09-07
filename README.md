@@ -9,7 +9,7 @@ This summer vacation, I thought to revise my C++ skills with something new. So I
 <h1>How To Run</h1>
 
 1. Clone this repository in your local memory<br>
-2. Open <b>Console-SAP-Application</b> folder with VS Code.<br>
+2. Open <b>Attendance Management System</b> folder with VS Code.<br>
 3. Open terminal and write <i>make</i> in terminal.<br>
 4. Code will start to compile (Some warning may show but those are not problem).<br>
 5. Type <i>.\Easy_Attendance.exe</i> and press enter.<br>
